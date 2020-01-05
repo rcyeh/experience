@@ -1,4 +1,7 @@
 # experience
 
-## [allergy](allergy)
+## allergy
+
+[egg](allergy/egg.md)
+
 
