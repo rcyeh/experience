@@ -11,6 +11,7 @@ Foods containing chicken egg:
   * most doughnuts
   * almost no bagels, except egg bagels
   * meringue
+  * some mousse
   * custard, flan, creme brulee
   * most cakes (including flourless chocolate), cookies (including macaroons), muffins, scones
   * some ice creams
@@ -26,12 +27,13 @@ Foods containing chicken egg:
   * most croutons
 
 * Sauces
-  * Mayonnaise, Tartar sauce, Thousand-Island dressing, Russian dressing
+  * Mayonnaise, Tartar sauce, Thousand-Island dressing, Russian dressing, aioli
   * some Ranch dressing
   * Hollandaise, possibly some Bechamel and Veloute
 
-* American
+* Western
   * Breaded foods: fried chicken (including KFC), fish sticks (alternative: flour)
+  * Lemon curd
   * Meat loaf
   * Meatballs
   * Nonfat Fig Newtons
@@ -41,7 +43,7 @@ Foods containing chicken egg:
   * Stir-fried meat (beef, pork, chicken) sometimes tenderized with egg (alternative: corn starch)
   * Egg-drop soup (wispy clumps of beaten egg)
   * some fish balls
-  * some noodles
+  * some wheat noodles, especially lo mein
   * some dumpling wrappers; some dumpling fillings
   * shumai
   * some Naan
